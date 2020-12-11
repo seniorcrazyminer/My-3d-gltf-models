@@ -1905,16 +1905,16 @@
       "uri": "event_horizon_baseColor.jpeg"
     },
     {
-      "uri": "textures/event_horizon_emissive.jpeg"
+      "uri": "event_horizon_emissive.jpeg"
     },
     {
-      "uri": "textures/event_horizon_normal.jpeg"
+      "uri": "event_horizon_normal.jpeg"
     },
     {
-      "uri": "textures/gate_baseColor.jpeg"
+      "uri": "gate_baseColor.jpeg"
     },
     {
-      "uri": "textures/gate_normal.jpeg"
+      "uri": "gate_normal.jpeg"
     }
   ],
   "materials": [
