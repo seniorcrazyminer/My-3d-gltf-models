@@ -1,0 +1,11 @@
+Model Information:
+* title:	K2 SRTM_GL1 elevationapi
+* source:	https://sketchfab.com/3d-models/k2-srtm-gl1-elevationapi-45628cf05bc0493aaebe31d32dbc48c1
+* author:	Budots Media (https://sketchfab.com/BudotsM)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "K2 SRTM_GL1 elevationapi" (https://sketchfab.com/3d-models/k2-srtm-gl1-elevationapi-45628cf05bc0493aaebe31d32dbc48c1) by Budots Media (https://sketchfab.com/BudotsM) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
