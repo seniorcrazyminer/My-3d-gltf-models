@@ -1902,7 +1902,7 @@
   ],
   "images": [
     {
-      "uri": "textures/event_horizon_baseColor.jpeg"
+      "uri": "event_horizon_baseColor.jpeg"
     },
     {
       "uri": "textures/event_horizon_emissive.jpeg"
